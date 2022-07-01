@@ -1,0 +1,50 @@
+﻿body {
+   
+}
+
+#btnAdd{
+   
+}
+
+
+table {
+    border: 1px solid rgb(22, 23, 20);
+    margin-top: 15px;
+    margin: auto;
+}
+th
+{
+    border: 1px solid rgb(22, 23, 20);
+    text-align: center;
+    padding: 10px;
+}
+
+tr {
+    border: 1px solid rgb(22, 23, 20);
+    text-align: center;
+}
+
+td {
+    border: 1px solid rgb(22, 23, 20);
+    text-align: center;
+    padding: 10px;
+}
+
+.form-horizontal
+{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top:10px;
+}
+
+.form-group{
+    margin: auto;
+}
+
+.btn.btn-primary.update
+{
+    display: none;
+}
